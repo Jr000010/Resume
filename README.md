@@ -1,7 +1,7 @@
 # RESUME
 ## INTRO
 
-My name is Jann Adalla. I create software and mostly work with websites and web applications.
+My name is Jann Adalla. I create software applications, and mostly work with websites and web applications.
 
 ### PROJECTS
 #### 1. Froebel Junior School
