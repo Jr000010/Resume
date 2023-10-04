@@ -1,4 +1,3 @@
-## INTRO
 
 My name is Jann Adalla. I create software and mostly work with websites and web applications.
 
