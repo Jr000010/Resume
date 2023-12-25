@@ -1,5 +1,5 @@
 
-My name is Jann Adalla. I create software and mostly work with websites and web applications.
+Jann Adalla, software developer.
 
 ### PROJECTS
 #### 1. Froebel Junior School
